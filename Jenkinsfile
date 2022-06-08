@@ -15,7 +15,6 @@ pipeline {
             sh 'ls'
             git(url: 'https://github.com/Amika-Rano/java_test.git', branch: 'main')
             sh 'mvn clean install'
-            archiveArtifacts 'target/*.war'
           }
         }
 
