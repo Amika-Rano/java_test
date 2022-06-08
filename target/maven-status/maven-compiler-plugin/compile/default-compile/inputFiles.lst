@@ -1,0 +1,11 @@
+/home/thomas/cloned/java-junit-sample/src/main/java/com/codecentric/sample/store/repository/ItemRepository.java
+/home/thomas/cloned/java-junit-sample/src/main/java/com/codecentric/sample/store/model/Item.java
+/home/thomas/cloned/java-junit-sample/src/main/java/com/codecentric/sample/store/model/Customer.java
+/home/thomas/cloned/java-junit-sample/src/main/java/com/codecentric/sample/store/service/external/ExternalSystemProxy.java
+/home/thomas/cloned/java-junit-sample/src/main/java/com/codecentric/sample/store/service/ItemService.java
+/home/thomas/cloned/java-junit-sample/src/main/java/com/codecentric/sample/store/service/external/AddressService.java
+/home/thomas/cloned/java-junit-sample/src/main/java/com/codecentric/sample/store/service/external/HostService.java
+/home/thomas/cloned/java-junit-sample/src/main/java/com/codecentric/sample/store/service/RateService.java
+/home/thomas/cloned/java-junit-sample/src/main/java/com/codecentric/sample/store/service/tools/StaticService.java
+/home/thomas/cloned/java-junit-sample/src/main/java/com/codecentric/sample/store/service/CustomerService.java
+/home/thomas/cloned/java-junit-sample/src/main/java/com/codecentric/sample/SampleApplication.java
